@@ -71,7 +71,7 @@ const Contact = () => {
               fontSize="25px"
               color="#0000ff"
             />
-            +2348108358516
+            +2348108353244
           </Text>
           <Flex gap={4} mb={5}>
             <Link href="https://www.facebook.com/chioma.som.5" isExternal>
@@ -82,7 +82,7 @@ const Contact = () => {
                 transition="transform 0.5s"
               />
             </Link>
-            <Link href="https://wa.me/qr/M6OKMPSP52JUP1" isExternal>
+            <Link href="" isExternal>
               <Icon
                 as={FaWhatsapp}
                 boxSize={7}
