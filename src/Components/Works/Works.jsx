@@ -17,9 +17,9 @@ const Works = () => {
     },
     {
       img: Myportfolio2,
-      title: "MOVIE WEBSITE",
+      title: "Crypto Marketplace",
       techStack: ["REACT.JS"],
-      link: "https://movie-app-cyan-pi-36.vercel.app/",
+      link: "https://cryptocurrency-tracker-xi-lyart.vercel.app/",
     },
     {
       img: Myportfolio3,
